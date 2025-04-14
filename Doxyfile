@@ -1,6 +1,0 @@
-INPUT = ../src ../include ../lib
-INPUT = ./src ./include ./lib
-INPUT = ./src ./include ./lib
-INPUT = ./src ./include ./lib
-INPUT = ./src ./include ./lib
-INPUT = ./src ./include ./lib
